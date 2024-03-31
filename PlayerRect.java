@@ -1,5 +1,3 @@
-package mazeFiles;
-
 import java.awt.Rectangle;
 
 class PlayerRect extends Rectangle{
