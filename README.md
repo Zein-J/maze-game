@@ -1,4 +1,4 @@
-Java Maze Game Made in 2022
+Java Maze Game
 
 The maze map is a grid of tiles each of which is represented by 0,1,2,3.
 
@@ -8,3 +8,5 @@ The maze map is a grid of tiles each of which is represented by 0,1,2,3.
 - 3 is the starting square
 
 Grade 12 project I made for CS
+
+Made in 2022
