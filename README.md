@@ -7,6 +7,4 @@ The maze map is a grid of tiles each of which is represented by 0,1,2,3.
 - 2 is the win square
 - 3 is the starting square
 
-Grade 12 project I made for CS
-
 Made in 2022
